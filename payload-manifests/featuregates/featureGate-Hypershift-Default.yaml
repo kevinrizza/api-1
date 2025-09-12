@@ -188,6 +188,9 @@
                         "name": "OVNObservability"
                     },
                     {
+                        "name": "OpenShiftPodSecurityAdmission"
+                    },
+                    {
                         "name": "PreconfiguredUDNAddresses"
                     },
                     {
@@ -287,9 +290,6 @@
                     },
                     {
                         "name": "NetworkSegmentation"
-                    },
-                    {
-                        "name": "OpenShiftPodSecurityAdmission"
                     },
                     {
                         "name": "PinnedImages"
